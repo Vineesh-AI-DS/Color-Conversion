@@ -117,7 +117,9 @@ cv2.destoryAllWindows()
 
 ### iv) Split and merge RGB Image:
 
-![Screenshot (99)](https://user-images.githubusercontent.com/93427254/163664082-4df8f626-75a3-4e6f-ab5d-f2ed43ee9216.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/93427254/163664230-1b125e24-f147-4a34-b626-9d4bb71b49eb.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/93427254/163664233-8ce0fc54-ee95-4ebf-9949-454a37accbea.png)
+
 
 <br>
 <br>
