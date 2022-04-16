@@ -97,21 +97,36 @@ cv2.destoryAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY:
 
+![Screenshot (96)](https://user-images.githubusercontent.com/93427254/163664023-aacda81c-2f29-4f9f-91f8-492194da5a77.png)
+
 <br>
 
-### ii) HSV to RGB and BGR
-<br>
-<br>
+### ii) HSV to RGB and BGR:
 
-### iii) RGB and BGR to YCrCb
-<br>
-<br>
+![Screenshot (97)](https://user-images.githubusercontent.com/93427254/163664057-5f87ea22-a454-4643-8844-daa8407fc837.png)
 
-### iv) Split and merge RGB Image
 <br>
 <br>
 
-### v) Split and merge HSV Image
+### iii) RGB and BGR to YCrCb:
+
+![Screenshot (98)](https://user-images.githubusercontent.com/93427254/163664065-4e4a62b2-cef6-4af6-be0f-88e1b73e93cf.png)
+
+<br>
+<br>
+
+### iv) Split and merge RGB Image:
+
+![Screenshot (99)](https://user-images.githubusercontent.com/93427254/163664082-4df8f626-75a3-4e6f-ab5d-f2ed43ee9216.png)
+
+<br>
+<br>
+
+### v) Split and merge HSV Image:
+
+![Screenshot (100)](https://user-images.githubusercontent.com/93427254/163664093-f45eac9b-c8db-44b2-8420-1b978b403ce3.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/93427254/163664097-0c4c7935-d374-493b-bd4f-c5f74001d8a9.png)
+
 <br>
 <br>
 
