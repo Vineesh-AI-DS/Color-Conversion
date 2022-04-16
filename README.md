@@ -21,7 +21,6 @@ Use cv2.cvtColor(src, code, dst, dstCn) to convert an image from one color space
 Split and merge the image using cv2.split and cv2.merge commands.
 
 <br>
-
 ### Step5:
 End the program and close the output image windows.
 <br>
